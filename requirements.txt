@@ -1,0 +1,8 @@
+PyJWT==2.3.0
+cryptography==36.0.1
+fastapi==0.66.0
+pytz==2021.1
+requests==2.25.1
+uvicorn==0.14.0
+python-dotenv==0.19.2
+mangum==0.15.0
